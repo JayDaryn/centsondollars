@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Cents on Dollars - Premium Forex Trading Signals',
   description: 'Join our premium Forex trading signals service. Get real-time alerts, expert analysis, and join a community of successful traders.',
+  icons: {icon:'/favicon.ico'}
 };
 
 export default function RootLayout({

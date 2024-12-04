@@ -62,7 +62,7 @@ export default function Home() {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold">We Don't Control Your Money, You Do.</h2>
+            <h2 className="text-3xl md:text-4xl font-bold">We Don&apos;t Control Your Money, You Do.</h2>
             <p className="text-xl text-gray-600 mt-4">We provide the expertise,  but you handle your own funds and choose where to invest, ensuring complete independence and flexibility.We emphasize that you maintain complete control over your finances. While our premium service offers exclusive access to expert insights and trading signals, we do not manage or handle your money. You deposit and manage your investments directly with the agents or companies that best align with your needs and preferences. This approach ensures that your financial journey is fully in your hands, giving you independence. flexibility, and peace of mind as you leverage our mastery to make informed decisions.</p>
           </div>
 <div className="flex flex-col md:flex-row justify-between items-center">
@@ -142,7 +142,7 @@ export default function Home() {
       {/* CTA */}
       <section className="bg-emerald-500 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold">Don't Be Left Behind...</h2>
+          <h2 className="text-3xl md:text-4xl font-bold">Don&apos;t Be Left Behind...</h2>
           <p className="text-xl mt-4 mb-8">We believe that everyone, regardless of experience, deserves the knowledge and tools to make informed financial decisions. Whether you’re a beginner taking your first steps or a seasoned trader looking to refine your strategy, our commitment to continuous market monitoring ensures that you have the best opportunities at your fingertips, leaving you with only one outcome: PROFIT.</p>
           <Button onClick={()=>{window.open('https://patreon.com/CentsOnDollars', '_blank')}} size="lg" variant="secondary" className="bg-white text-emerald-500 hover:bg-gray-100">
             Get Started Now

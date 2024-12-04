@@ -106,7 +106,7 @@ export default function Home() {
                 <span>Valueble Montly Giveaways</span>
               </li>
             </ul>
-            <Button onClick={()=>{window.open('https://patreon.com/CentsOnDollars', '_blank')}} className="w-full mt-8 bg-emerald-500 hover:bg-emerald-600">
+            <Button onClick={()=>{window.open('https://www.patreon.com/c/centsondollars/membership', '_blank')}} className="w-full mt-8 bg-emerald-500 hover:bg-emerald-600">
               Subscribe Now
             </Button>
           </Card>
@@ -144,7 +144,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold">Don&apos;t Be Left Behind...</h2>
           <p className="text-xl mt-4 mb-8">We believe that everyone, regardless of experience, deserves the knowledge and tools to make informed financial decisions. Whether you’re a beginner taking your first steps or a seasoned trader looking to refine your strategy, our commitment to continuous market monitoring ensures that you have the best opportunities at your fingertips, leaving you with only one outcome: PROFIT.</p>
-          <Button onClick={()=>{window.open('https://patreon.com/CentsOnDollars', '_blank')}} size="lg" variant="secondary" className="bg-white text-emerald-500 hover:bg-gray-100">
+          <Button onClick={()=>{window.open('https://www.patreon.com/checkout/CentsOnDollars?rid=24480075', '_blank')}} size="lg" variant="secondary" className="bg-white text-emerald-500 hover:bg-gray-100">
             Get Started Now
           </Button>
         </div>

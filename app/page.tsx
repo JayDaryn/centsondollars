@@ -106,7 +106,7 @@ export default function Home() {
                 <span>Valueble Montly Giveaways</span>
               </li>
             </ul>
-            <Button onClick={()=>{window.open('https://www.patreon.com/c/centsondollars/membership', '_blank')}} className="w-full mt-8 bg-emerald-500 hover:bg-emerald-600">
+            <Button onClick={()=>{window.open('https://www.patreon.com/checkout/CentsOnDollars?rid=24480075', '_blank')}} className="w-full mt-8 bg-emerald-500 hover:bg-emerald-600">
               Subscribe Now
             </Button>
           </Card>

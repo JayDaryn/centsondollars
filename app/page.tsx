@@ -66,7 +66,7 @@ export default function Home() {
             <p className="text-xl text-gray-600 mt-4">We provide the expertise,  but you handle your own funds and choose where to invest, ensuring complete independence and flexibility.We emphasize that you maintain complete control over your finances. While our premium service offers exclusive access to expert insights and trading signals, we do not manage or handle your money. You deposit and manage your investments directly with the agents or companies that best align with your needs and preferences. This approach ensures that your financial journey is fully in your hands, giving you independence. flexibility, and peace of mind as you leverage our mastery to make informed decisions.</p>
           </div>
 <div className="flex flex-col md:flex-row justify-between items-center">
-          <Card className="w-[45%] mx-auto p-8 text-center m-2">
+          <Card className="md:w-[45%] mx-auto p-8 text-center m-2">
             <div className="text-5xl font-bold">Free</div>
             <ul className="mt-8 space-y-4 text-left">
               <li className="flex items-center">
@@ -82,7 +82,7 @@ export default function Home() {
               Join Now
             </Button>
           </Card>
-           <Card className="w-[45%] mx-auto p-8 text-center m-2">
+           <Card className="md:w-[45%] mx-auto p-8 text-center m-2">
             <div className="text-5xl font-bold">$68<span className="text-xl text-gray-500">/month</span></div>
             <ul className="mt-8 space-y-4 text-left">
               <li className="flex items-center">
